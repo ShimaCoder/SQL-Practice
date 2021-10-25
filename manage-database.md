@@ -23,6 +23,7 @@ Drope Database DatabaseName
 ```
 
 Note: when a Database is Drop the MDF and LDF file will be deleted to.
-Note: A data base in use can not be deleted you need to put the database to single_User mood and then drop the database
-With rollback immediate option will rollback all incomplete transaction and closes the connection to the database.
+
+Note: A data base in use can not be deleted you need to put the database to single_User mood and then drop the database With rollback immediate option will rollback all incomplete transaction and closes the connection to the database.
+
 Note: system database cannot be dropped.
