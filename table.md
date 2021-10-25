@@ -1,6 +1,7 @@
-[Training Videos] (https://www.youtube.com/watch?v=JLeaM8pK8dE&list=PL08903FB7ACA1C2FB&index=5)
-Part 3/ Video 4
-Creating Tables/ Enforcing Primary key and foreign key constraints (Command/DDL DATA DEFINATION LANGUAGE)
+[Training Videos](https://www.youtube.com/watch?v=JLeaM8pK8dE&list=PL08903FB7ACA1C2FB&index=5)
+
+## Creating Tables/ Enforcing Primary key and foreign key constraints (Command/DDL DATA DEFINATION LANGUAGE)
+
 Can create table graphicly look for it later 
 Using syntax to create a table
 Create Table TableName
