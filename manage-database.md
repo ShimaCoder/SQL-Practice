@@ -1,8 +1,6 @@
 [Training Video](https://www.youtube.com/watch?v=TuxuHHacIWU&list=PL08903FB7ACA1C2FB&index=4)
 
-## Part2: Video 3
-
-### Creating, Altering, Dropping (Delete) a Database
+## Creating, Altering, Dropping (Delete) a Database
 Tages: Command/DDL (Data Definition Language)
 A database is an object in sql server just like a table and...
 To create a Database (object):
