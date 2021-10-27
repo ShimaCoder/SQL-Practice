@@ -1,6 +1,6 @@
 [training video](https://www.youtube.com/watch?v=oqrsfatxTYE&list=PL08903FB7ACA1C2FB&index=10)
 
-**Unique Key Constrain** (Command/DDL DATA DEFINATION LANGUAGE)
+## Unique Key Constrain (Command/DDL DATA DEFINATION LANGUAGE)
 
 We use UNIQUE constraint to enforce uniqueness of a column .i.e the column shouldn’t allow any duplicate values. We can add a unique constraint thru the designer or using a query.
 
